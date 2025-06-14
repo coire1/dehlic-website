@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^/?work/(.*)$ /works/ [R,L] 
+
+
